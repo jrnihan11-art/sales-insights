@@ -62,11 +62,13 @@ sales-insights-sql-powerbi
 
  📌 Sales Insights Dashboard
 
-![Sales Dashboard](power_bi/Sales Insights Dashboard Image.png)
+<img width="1919" height="745" alt="Sales Insights Dashboard Image" src="https://github.com/user-attachments/assets/56d175dc-f8a8-422d-86d7-cd2840c36dad" />
+
 
  📌 Profit Analysis Dashboard
 
-![Profit Dashboard](power_bi/Profit Analysis Dashboard Image.png)
+<img width="1916" height="973" alt="Profit Analysis Dashboard Image" src="https://github.com/user-attachments/assets/8742e9c1-4766-4770-8d3e-fadfa5618241" />
+
 
 ---
 
