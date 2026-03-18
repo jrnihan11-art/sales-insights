@@ -109,7 +109,3 @@ Nihan J
 * LinkedIn: www.linkedin.com/in/nihan-j
 
 ---
-
-⭐ If you like this project
-
-Give it a ⭐ on GitHub!
